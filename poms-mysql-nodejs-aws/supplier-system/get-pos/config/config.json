@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "nodepro",
+        "password": "password123",
+        "database": "supplier_system",
+        "host": "supplier-system.csdkxj5me917.us-east-2.rds.amazonaws.com",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "nodepro",
+        "password": "password123",
+        "database": "supplier_system",
+        "host": "supplier-system.csdkxj5me917.us-east-2.rds.amazonaws.com",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "nodepro",
+        "password": "password123",
+        "database": "supplier_system",
+        "host": "supplier-system.csdkxj5me917.us-east-2.rds.amazonaws.com",
+        "dialect": "mysql"
+    }
+}

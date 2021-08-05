@@ -1,0 +1,21 @@
+{
+    "item": {
+        "name": "Shoes",
+        "description": "Branded shoes",
+        "unit_measurement": "inch",
+        "unit_price": 1500,
+        "vendor_name": "Nike"
+    },
+    "po_status": "Rejected",
+    "_id": "60d081a420e6551f300b859a",
+    "buyer_name": "Harsh",
+    "buyer_address": "X address",
+    "shipping_address": "Ship X address",
+    "created_by": "Manoj Nim",
+    "quantity": 100,
+    "total_amount": 150000,
+    "createdAt": "2021-06-21T12:10:12.616Z",
+    "updatedAt": "2021-06-21T13:06:09.649Z",
+    "__v": 0,
+    "approved_by": "Ramesh"
+}
